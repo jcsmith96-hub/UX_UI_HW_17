@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #D1C0A8;
   padding: 15px;
 }
 header ul {
   float: right;
-  color: white;
+  color: black;
 }
 header li {
   display: inline-block;
@@ -17,7 +17,7 @@ header p {
   display: inline-block;
 }
 .heroImg {
-  background-color: green;
+  background-color: #E8DED1;
   padding: 100px 15px;
 }
 .content {
@@ -29,15 +29,15 @@ header p {
 }
 button {
   padding: 15px;
-  background-color: #373738;
+  background-color: #D1C0A8;
   color: white;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #D1C0A8;
   padding: 5px;
-  color: white;
+  color: black;
 }
 footer ul {
   list-style: none;
